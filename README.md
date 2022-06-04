@@ -1,4 +1,1 @@
-# CPE232_Nepomuceno
-
-Nepomuceno, Genesi DL.
-SSH Key-Based Authentication and Git Setup
+# QUIZ 5.1_Nepomuceno, Genesi DL.
