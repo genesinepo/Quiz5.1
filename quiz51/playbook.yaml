@@ -1,0 +1,5 @@
+---
+- name: Installing elasticstack for Ubuntu
+  hosts: ubuntu
+  roles:
+    - ubuntu_elk
